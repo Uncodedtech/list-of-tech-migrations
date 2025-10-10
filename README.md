@@ -345,3 +345,4 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Microsoft](https://devblogs.microsoft.com/typescript/typescript-native-port/) (2025) from Typescript to Golang
 *   [Chartmetric](https://www.youtube.com/watch?v=gd1yWbnaalk) (2025) from PostgreSQL/AWS RDS/Snowflake to Clickhouse
 *   [Geizhals](https://www.youtube.com/watch?v=aJVdfPk9WmI) (2025) from Preact to Svelte
+*   [Ada](https://www.youtube.com/watch?v=T5Vw-bpWuNI) (2025) from RedShift/ElasticSearch/DynamoDB to Clickhouse

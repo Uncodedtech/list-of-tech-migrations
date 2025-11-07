@@ -347,4 +347,5 @@ list of public tech migrations (create a PR to if you have correction or additio
 *   [Geizhals](https://www.youtube.com/watch?v=aJVdfPk9WmI) (2025) from Preact to Svelte
 *   [Ada](https://www.youtube.com/watch?v=T5Vw-bpWuNI) (2025) from RedShift/ElasticSearch/DynamoDB to Clickhouse
 *   [Chartmetric](https://www.youtube.com/watch?v=DdTCFrMhbTE) (2025) from AuroraRDS+Slowflake+ElasticSearch+Airflow to Clickhouse
-*   [FinBox](https://www.youtube.com/watch?v=PghysB5KYXU) (2025) from Airflow+DataBricks+SnowFlake+RedShift to Debezium+Kafka+VectorDev+ClickHouse
+*   [FinBox](https://www.youtube.com/watch?v=PghysB5KYXU) (2025) from Airflow+DataBricks+SnowFlake+RedShift to Debezium+Kafka+VectorDev+ClichHouse
+*   [GitLab](https://clickhouse.com/blog/how-gitlab-uses-clickhouse-to-scale-analytical-workloads?rdt_cid=5217830554598346520&utm_campaign=reddit-awareness&utm_medium=paid-social&utm_source=reddit) (2025) from PostgreSQL to Clickhouse
